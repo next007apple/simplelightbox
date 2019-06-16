@@ -1,4 +1,4 @@
-# ReadMe(simplelightbox)
+(@@readme,simplelightbox)
 
 (@@add inside head tag)
 <link rel="stylesheet" type="text/css" href="simplelightbox/simplelightbox.css" />
