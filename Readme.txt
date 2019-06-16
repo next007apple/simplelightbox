@@ -1,5 +1,8 @@
 (@@readme,simplelightbox)
 
+(@@credit,main,source)
+https://dbrekalo.github.io/simpleLightbox/
+
 (@@add inside head tag)
 <link rel="stylesheet" type="text/css" href="simplelightbox/simplelightbox.css" />
 <script type="text/javascript" src="simplelightbox/simplelightbox.js"></script>
